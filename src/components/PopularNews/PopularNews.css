@@ -1,0 +1,27 @@
+.latest-news-block{
+    display: flex;
+    justify-content:space-between;
+}
+.latest-news-block-img{
+    border-radius: 20px;
+    height: 200px;
+    width: 288px;
+
+}
+.latest-news-block-info{
+    display: flex;
+}
+.latest-news-block-info-text-small{
+    color: red;
+}
+.latest-news-block-info-text::before{
+    content: '•';
+    margin: 0 10px;
+}
+.latest-news-block-header{
+    width: 300px;
+    margin: 0;
+}
+.latest-news-block-text{
+    width: 230px;
+}

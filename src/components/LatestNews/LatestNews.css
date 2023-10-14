@@ -1,6 +1,7 @@
 .latest-news-block{
     display: flex;
     justify-content:space-between;
+    margin-bottom: 50px;
 }
 .latest-news-block-img{
     border-radius: 20px;

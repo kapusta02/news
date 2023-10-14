@@ -1,5 +1,5 @@
-import './PopularNews.css'
-export const PopularNews = () => {
+import './LatestNews.css'
+export const LatestNews = () => {
     return (
         <>
             <div className='container'>
@@ -51,6 +51,7 @@ export const PopularNews = () => {
                         </div>
                     </div>
                 </div>
+                <hr />
             </div>
         </>
     )

@@ -35,3 +35,19 @@
     content: '•';
     margin-right: 7px;
 }
+
+@media (max-width:420px) {
+    .today-news-block{
+        display: block;
+    }
+    .today-news-block-img{
+        height: 351px;
+        margin-bottom: 15px;
+    }
+    .today-news-block-header {
+        width: 354px;
+    }
+    .today-news-block-text {
+        width: 356px;
+    }
+}

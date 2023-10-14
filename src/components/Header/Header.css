@@ -37,3 +37,12 @@ ul li{
 .header-block-img{
     height: 50px;
 }
+
+@media (max-width:420px) {
+    .header-block-nav{
+        display: block;
+    }
+    .header-block-nav-item{
+        margin: 12px 0px;
+    }
+}

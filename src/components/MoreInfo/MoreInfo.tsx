@@ -6,7 +6,11 @@ export const MoreInfo = () => {
                 <h2 className='more-info-block-header'>More info</h2>
                 <div className='more-info-block'>
                     <p>La chica pensó que era una excusa ridícula, pero cuando miró detalladamente el perfil de Samuel, descubrió que no le estaba mintiendo. Había varias fotos tituladas "Mi madre y yo" donde podía ver la misma belleza: su madre Paula Andrea, de 47 años. Resultó ser que no era la primera vez que confundían a Paula con la novia de su hijo, y después la bombardeaban con preguntas sobre cómo se las apañaba para verse dos veces más joven. Muchos sospechaban que su aspecto era producto de una cirugía plástica, pero en realidad su secreto era muy diferente.</p>
-                    <img src="../src/img/MoreInfo/first-pic.jpeg" alt="first-pic" />
+                    <img 
+                    src="../src/img/MoreInfo/first-pic.jpeg" 
+                    alt="first-pic"
+                    className='first-pic'
+                    />
                 </div>
                 <div className='more-info-block'>
                     <p><b>— Paula, a juzgar por las fotos, no cambiaste nada en los últimos 20 años. Me gustaría hacerte una pregunta, aunque probablemente ya estés cansada de responderla: ¿cómo lo lograste?</b></p>

@@ -7,7 +7,6 @@
     border-radius: 20px;
     height: 200px;
     width: 288px;
-
 }
 .latest-news-block-info{
     display: flex;
@@ -25,4 +24,11 @@
 }
 .latest-news-block-text{
     width: 230px;
+}
+
+@media (max-width:420px) {
+    .latest-news-block{
+        display: flex;
+        flex-direction: column;
+    }
 }

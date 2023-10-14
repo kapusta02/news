@@ -18,3 +18,13 @@
     color: rgb(175, 175, 175);
     font-size: 15px;
 }
+
+@media (max-width:420px) {
+    .comments-block{
+        display: block;
+    }
+    .comments-block-item{
+        width: 318px;
+        margin-bottom: 30px;
+    }
+}

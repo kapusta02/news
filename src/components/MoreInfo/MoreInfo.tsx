@@ -89,6 +89,7 @@ export const MoreInfo = () => {
                     <p><b>— Dice que los poderosos gigantes de productos cosméticos dificultan su entrada al mercado. ¿Cómo se comercializa su producto? ¿Dónde se puede comprar?</b></p>
                     <p>— Por ahora, lamentablemente, solo se vende en nuestra web oficial. Esperamos que en el futuro podamos llegar a los estantes de las farmacias y tiendas mientras seguimos negociando, pero esta situación beneficia a los compradores: dado que la producto no se comercializa en nuestro país y no la publicitamos entre los consumidores como parte de un programa de marketing, a menudo llevamos a cabo promociones limitadas con descuentos.</p>
                 </div>
+                <hr />
             </div>
         </>
     )
